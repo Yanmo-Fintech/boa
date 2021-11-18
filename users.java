@@ -13,3 +13,5 @@ Mayowa
 Funmi
 =======
 >>>>>>> parent of 702782a... java-app development complete
+Laura added in dev
+Bola added to dev
