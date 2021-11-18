@@ -8,3 +8,5 @@ Ivan
 kayla
 Mannual
 Automatic
+Mayowa
+Funmi
