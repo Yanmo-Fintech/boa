@@ -6,7 +6,10 @@ Kalifat
 Yusuf
 Ivan
 kayla
+<<<<<<< HEAD
 Mannual
 Automatic
 Mayowa
 Funmi
+=======
+>>>>>>> parent of 702782a... java-app development complete
