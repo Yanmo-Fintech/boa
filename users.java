@@ -6,3 +6,5 @@ Kalifat
 Yusuf
 Ivan
 kayla
+Mannual
+Automatic
